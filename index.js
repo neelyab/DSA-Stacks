@@ -148,3 +148,27 @@ function sortStack(stack){
     }
     return temp;
 }
+
+
+function squareDance(stack){
+    // if waiting == empty && if F and M || M and F
+        //pair
+    // else
+    //push to waiting array []
+
+    // while (waiting && stack)
+    //waiting[0] and stack.top
+    //if they can be paired, pair
+    //else push waiting the stack.top
+
+    //if stack is empty
+    //return pairs and waiting
+}
+
+
+function OrphideanBank(queue){
+    // if paperwork is done (true) pop off and serve customer
+
+    // if paperwork is not done (false) push to back of queue
+    //this.last = node
+}
